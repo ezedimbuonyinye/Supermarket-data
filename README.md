@@ -5,6 +5,28 @@ The dataset consists of three sheets:
 * Orders → Sales transactions (customers, products, sales, profit, shipping, discounts).
 * Returns → Returned orders impacting revenue and profit.
 * Users → Regional managers responsible for performance.
+*Discounts & Profitability*
+ * Higher discounts correlate with *negative profit* (especially in Technology & Furniture).
+   * Recommendation: Introduce a *discount cap* to prevent profit erosion.
+
+2. *Customer Segments*
+
+   * *Corporate customers* drive bulk sales but lower margins.
+   * *Home Office customers* show higher profitability per unit.
+   * Recommendation: Create a *loyalty program* for Home Office segment.
+
+3. *Regional Performance*
+
+   * Central region (Chris) has the most consistent profitability.
+   * East & West suffer from *higher return rates*, hurting profit.
+   * Recommendation: Share Central’s best practices across regions.
+
+4. *Product Categories*
+
+   * *Technology* → High sales, inconsistent profit due to returns.
+   * *Office Supplies* → High volume, low margins.
+   * *Furniture* → Shipping costs reduce profitability.
+   * Recommendation: Improve *Furniture logistics* and *Technology after-sales support*.
 
 
 
