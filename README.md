@@ -50,6 +50,9 @@ The dataset consists of three sheets:
 
   <img width="167" height="169" alt="image" src="https://github.com/user-attachments/assets/0c0aed60-0b7d-44de-8f14-a174a3b7c338" />
 
+Tools Used
+* Power BI* (for Visualization)
+* Excel* (Data Cleaning)
 
 
 
