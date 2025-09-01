@@ -26,7 +26,20 @@ The dataset consists of three sheets:
    * *Technology* → High sales, inconsistent profit due to returns.
    * *Office Supplies* → High volume, low margins.
    * *Furniture* → Shipping costs reduce profitability.
-   * Recommendation: Improve *Furniture logistics* and *Technology after-sales support*.
+* Recommendation: Improve *Furniture logistics* and *Technology after-sales support*.
+  
+### 📊 Visualizations (in notebook/Power BI)
+
+* Sum of Profit by Product Category
+  <img width="355" height="253" alt="image" src="https://github.com/user-attachments/assets/a88cb99c-e363-42be-a8b2-3a91fcff4bdb" />
+
+*Total Sales by Year & Product Container 
+<img width="215" height="197" alt="image" src="https://github.com/user-attachments/assets/e88e5745-cdc7-48e6-a4ee-137a99a264dc" />
+
+* Sum of Profit by Region
+  <img width="446" height="249" alt="image" src="https://github.com/user-attachments/assets/d3c10bb7-daf4-4c80-a23d-733d5ddabaf8" />
+
+
 
 
 
