@@ -40,6 +40,13 @@ The dataset consists of three sheets:
 * Sum of Profit by Region
   <img width="446" height="249" alt="image" src="https://github.com/user-attachments/assets/d3c10bb7-daf4-4c80-a23d-733d5ddabaf8" />
 
+* Sum of Shipping Cost by Region
+
+  <img width="164" height="183" alt="image" src="https://github.com/user-attachments/assets/4a0d53a1-5fec-475e-80a8-e60c0779bd22" />
+
+* Average Profit by State or Province
+
+  <img width="167" height="169" alt="image" src="https://github.com/user-attachments/assets/0c0aed60-0b7d-44de-8f14-a174a3b7c338" />
 
 
 
