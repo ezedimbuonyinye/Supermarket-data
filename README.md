@@ -31,14 +31,16 @@ The dataset consists of three sheets:
 ### 📊 Visualizations (in notebook/Power BI)
 
 * Sum of Profit by Product Category
-  <img width="355" height="253" alt="image" src="https://github.com/user-attachments/assets/a88cb99c-e363-42be-a8b2-3a91fcff4bdb" />
+ <img width="160" height="134" alt="image" src="https://github.com/user-attachments/assets/90fb9dc8-c863-4704-936c-9319be34d72e" />
+
 
 *Total Sales by Year & Product Container 
 
 <img width="215" height="197" alt="image" src="https://github.com/user-attachments/assets/e88e5745-cdc7-48e6-a4ee-137a99a264dc" />
 
 * Sum of Profit by Region
-  <img width="446" height="249" alt="image" src="https://github.com/user-attachments/assets/d3c10bb7-daf4-4c80-a23d-733d5ddabaf8" />
+ <img width="202" height="123" alt="image" src="https://github.com/user-attachments/assets/8c338fa0-c1ef-4b74-9a92-fe53e679d371" />
+
 
 * Sum of Shipping Cost by Region
 
@@ -57,5 +59,5 @@ The dataset consists of three sheets:
 
 
 <h2>Visual One</h2>
-<img width="164" height="68" alt="image" src="https://github.com/user-attachments/assets/b29cc79b-4763-4f44-955c-e590e76d65ba" />
+
 <p>hjjkdflkldf </p>
