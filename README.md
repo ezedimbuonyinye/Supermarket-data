@@ -34,6 +34,7 @@ The dataset consists of three sheets:
   <img width="355" height="253" alt="image" src="https://github.com/user-attachments/assets/a88cb99c-e363-42be-a8b2-3a91fcff4bdb" />
 
 *Total Sales by Year & Product Container 
+
 <img width="215" height="197" alt="image" src="https://github.com/user-attachments/assets/e88e5745-cdc7-48e6-a4ee-137a99a264dc" />
 
 * Sum of Profit by Region
